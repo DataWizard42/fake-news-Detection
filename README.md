@@ -16,7 +16,7 @@ This repository contains code for building a simple fake news detection model us
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
+   git clone https://github.com/Vaibhav143-cherry/fake-news-Detection
 
 Install the required libraries:
 pip install -r requirements.txt
